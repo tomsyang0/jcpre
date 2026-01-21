@@ -1,0 +1,7 @@
+{
+  "train_csv": "E:\\jcpre\\datasets\\jc_fbref_bonus_support_2025-01-01_to_2026-01-17 .csv",
+  "n_train": 7644,
+  "n_val": 1911,
+  "date_min": "2025-01-01 00:00:00",
+  "date_max": "2026-01-17 00:00:00"
+}

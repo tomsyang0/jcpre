@@ -1,0 +1,25 @@
+{
+  "feature_cols": [
+    "xG_diff",
+    "xGA_diff",
+    "GF_diff",
+    "GA_diff",
+    "Pts_diff",
+    "def_strength_diff",
+    "off_buildup_diff",
+    "tempo_diff_model",
+    "tempo_diff_raw",
+    "spf_odds_h",
+    "spf_odds_d",
+    "spf_odds_a",
+    "mkt_p_h",
+    "mkt_p_d",
+    "mkt_p_a",
+    "hcp_odds_h",
+    "hcp_odds_d",
+    "hcp_odds_a",
+    "is_missing_mkt",
+    "is_missing_fbref",
+    "bonus_score"
+  ]
+}

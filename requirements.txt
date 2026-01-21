@@ -1,0 +1,22 @@
+# 基础数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+scipy>=1.10.0
+
+# 机器学习/深度学习
+scikit-learn>=1.2.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+tensorflow>=2.15.0  # 或 pytorch>=2.0.0（二选一）
+imbalanced-learn>=0.10.0
+
+# 可视化与分析
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# 其他工具
+tqdm>=4.65.0
+loguru>=0.7.0
+pyyaml>=6.0

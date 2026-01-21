@@ -1,0 +1,32 @@
+{
+  "base_weights": {
+    "ml": 0.1795931964732882,
+    "poisson": 0.0,
+    "elo": 0.05614212602424768,
+    "market": 0.7642646775024642
+  },
+  "rules": {
+    "if_missing_market": {
+      "market": 0.0
+    },
+    "if_missing_fbref": {
+      "ml_multiplier": 0.6
+    }
+  },
+  "fit_info": {
+    "names": [
+      "ml",
+      "poisson",
+      "elo",
+      "market"
+    ],
+    "weights": [
+      0.1795931964732882,
+      0.0,
+      0.05614212602424768,
+      0.7642646775024642
+    ],
+    "success": true,
+    "fun": 0.9938705585470439
+  }
+}

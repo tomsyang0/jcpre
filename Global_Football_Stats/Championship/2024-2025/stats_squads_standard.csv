@@ -1,0 +1,25 @@
+﻿Rk,球队,场次,W,D,L,进球,失球,净胜球,积分,Pts/MP,预期进球,预期失球,xGD,xGD/90,Attendance,Top Team Scorer,Goalkeeper,Notes
+1,Leeds United,46,29,13,4,95,30,65,100,2.17,89.3,29.6,59.7,1.3,36134,Joël Piroe - 19,Illan Meslier,Promoted
+2,Burnley,46,28,16,2,69,16,53,100,2.17,57.8,39.1,18.7,0.41,19850,Josh Brownhill - 18,James Trafford,Promoted
+3,Sheffield Utd,46,28,8,10,63,36,27,90,1.96,62.6,46.2,16.4,0.36,32838,Tyrese Campbell - 10,Michael Cooper,"2-point deduction 1, → Promotion play-offs — Semi-finals"
+4,Sunderland,46,21,13,12,58,44,14,76,1.65,58.8,48.8,10.0,0.22,42454,Wilson Isidor - 12,Anthony Patterson,"Promoted, → Promotion play-offs — Semi-finals"
+5,Coventry City,46,20,9,17,64,58,6,69,1.5,68.0,52.6,15.3,0.33,29177,Haji Wright - 12,Oliver Dovin,→ Promotion play-offs — Semi-finals
+6,Bristol City,46,17,17,12,59,55,4,68,1.48,59.4,56.4,3.0,0.07,23539,Anis Mehmeti - 12,Max O'Leary,→ Promotion play-offs — Semi-finals
+7,Blackburn,46,19,9,18,53,48,5,66,1.43,51.6,54.0,-2.4,-0.05,16161,Yuki Ohashi - 9,Aynsley Pears,
+8,Millwall,46,18,12,16,47,49,-2,66,1.43,53.5,49.9,3.6,0.08,15490,Mihailo Ivanović - 12,Lukas Jensen,
+9,West Brom,46,15,19,12,57,47,10,64,1.39,58.7,47.1,11.6,0.25,25057,Josh Maja - 12,Alex Palmer,
+10,Middlesbrough,46,18,10,18,64,56,8,64,1.39,67.3,55.5,11.8,0.26,25416,Tommy Conway - 13,"Seny Dieng, Mark Travers",
+11,Swansea City,46,17,10,19,51,56,-5,61,1.33,56.4,57.6,-1.2,-0.03,15503,Liam Cullen - 11,Lawrence Vigouroux,
+12,Sheffield Weds,46,15,13,18,60,69,-9,58,1.26,62.7,62.9,-0.2,-0.01,26636,Josh Windass - 13,James Beadle,
+13,Norwich City,46,14,15,17,71,68,3,57,1.24,63.8,54.4,9.4,0.2,26316,Borja Sainz - 18,Angus Gunn,
+14,Watford,46,16,9,21,53,61,-8,57,1.24,55.5,67.5,-12.1,-0.26,19379,Vakoun Bayo - 10,Daniel Bachmann,
+15,QPR,46,14,14,18,53,63,-10,56,1.22,47.8,54.1,-6.4,-0.14,15872,Michael Frey - 8,Paul Nardi,
+16,Portsmouth,46,14,12,20,58,71,-13,54,1.17,55.7,69.0,-13.3,-0.29,20263,Colby Bishop - 11,Nicolas Schmid,
+17,Oxford United,46,13,14,19,49,65,-16,53,1.15,42.0,66.4,-24.3,-0.53,11358,"Greg Leigh, Mark Harris - 6",Jamie Cumming,
+18,Stoke City,46,12,15,19,45,62,-17,51,1.11,50.8,72.6,-21.9,-0.48,22804,Thomas Cannon - 9,Viktor Johansson,
+19,Derby County,46,13,11,22,48,56,-8,50,1.09,46.8,49.8,-3.0,-0.06,29018,Jerry Yates - 10,Jacob Widell Zetterström,
+20,Preston,46,10,20,16,48,59,-11,50,1.09,51.3,58.0,-6.7,-0.15,16505,Emil Riis Jakobsen - 12,Freddie Woodman,
+21,Hull City,46,12,13,21,44,54,-10,49,1.07,51.9,53.2,-1.2,-0.03,21323,João Pedro - 6,Ivor Pandur,
+22,Luton Town,46,13,10,23,45,69,-24,49,1.07,49.8,56.4,-6.5,-0.14,11555,Carlton Morris - 8,Thomas Kaminski,Relegated
+23,Plymouth Argyle,46,11,13,22,51,88,-37,46,1.0,40.3,83.5,-43.2,-0.94,16494,"Ryan Hardie, Mustapha Bundu - 10",Conor Hazard,Relegated
+24,Cardiff City,46,9,17,20,48,73,-25,44,0.96,47.2,64.5,-17.3,-0.38,19140,Callum Robinson - 12,Jak Alnwick,Relegated

@@ -34,6 +34,9 @@ def main():
         # 三模融合概率 [H, D, A]
         final_probs = probs_ml[i]*0.5 + probs_dl[i]*0.3 + p_poisson*0.2
         
+        # 计算比分预测
+        scoreline_pred, scoreline_details = pm.calculate_scoreline_probs(row, top_n=3)
+        
         # 全向价值扫描
         decision = sm.analyze_all_options(row, final_probs)
         if decision and decision['ev'] > 0.02: # 门槛：2% 优势
@@ -46,7 +49,8 @@ def main():
                 '竞彩赔率': decision['odd'],
                 'EV': f"{decision['ev']:.2%}",
                 '建议投注': f"{sm.bankroll * decision['kelly']:.0f}元",
-                '本金占比': f"{decision['kelly']:.2%}"
+                '本金占比': f"{decision['kelly']:.2%}",
+                '比分预测': scoreline_pred
             })
 
     # 3. 输出导出
